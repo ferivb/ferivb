@@ -10,7 +10,9 @@
 
 <br />
 
+<p allign=left>
 Hi, I'm Felipe Rivas a self-taught/bootcamper Jr. developer that finally decided to follow his dream to join the tech industry after 10 years of Client success consulting! I fell in in love with programing at a young age, but found success in client success consulting so I always postponed learning computer sciences, until the events from 2020 showed me dreams shouldn't wait that long!
+</p>
 
 
   <img align="right" alt="GIF" src="https://github.com/ferivb/ferivb/blob/main/code.gif?raw=true" width="500" height="320" />
