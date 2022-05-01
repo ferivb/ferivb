@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/felipe-rivas-833863178/">
   <img align="left" alt="Felipe Rivas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://medium.com/@fe.rivasb">
+  <img align="left" alt="Felipe Rivas's Medium" width="22px" src="https://img.icons8.com/ios-glyphs/344/medium-logo.png" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ferivb.ferivb)
 
