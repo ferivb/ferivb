@@ -6,9 +6,9 @@
 
 <br />
 
-<p allign=left>
-Hi, I'm Felipe Rivas a self-taught/bootcamper Jr. developer. Currently going through my Frontend pipeline! I'm very proactive comunicative and eager to learn!
-</p>
+<p allign=left>Hi, I'm Felipe Rivas a self-taught/bootcamper Jr. developer. Currently going through my Frontend pipeline!</p>
+
+<p allign=left>I'm very proactive comunicative and eager to learn!</p>
 
 <br />
 
