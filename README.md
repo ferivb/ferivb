@@ -12,6 +12,27 @@
 
 <br />
 
+- :floppy_disk: My stack:
+
+#### Languages:
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a>
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
+
+#### Frameworks: 
+
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
+
+- 📈 my github stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ferivb&show_icons=true&theme=gotham" alt="ferivb" /> </p>
+
+- 💼 I'm available for work! get in touch [email](mailto:fe.rivasb@gmail.com) :)
+
+- My socials:
+
 <a href="https://twitter.com/NoobDevSaysWhat">
   <img align="left" alt="Felipe Rivas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -22,29 +43,4 @@
   <img align="left" alt="Felipe Rivas's Medium" width="22px" src="https://img.icons8.com/ios-glyphs/344/medium-logo.png" />
 </a>
 
-<br />
 
-- 💼 I'm available for work! get in touch [email](mailto:fe.rivasb@gmail.com) :)
-
-- :floppy_disk: My stack:
-
-#### Languages:
-
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a>
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
-
-<br />
-
-#### Frameworks: 
-
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
-<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
-  
-
-
-- 📈 my github stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ferivb&show_icons=true&theme=gotham" alt="ferivb" />
-
-  
