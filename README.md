@@ -20,11 +20,13 @@ Hi, I'm Felipe Rivas a self-taught/bootcamper Jr. developer. Currently going thr
   <img align="left" alt="Felipe Rivas's Medium" width="22px" src="https://img.icons8.com/ios-glyphs/344/medium-logo.png" />
 </a>
 
+<br />
+
 - 💼 I'm available for work! get in touch [email](mailto:fe.rivasb@gmail.com) :)
 
 - :floppy_disk: My stack:
 
-## Languages:
+# Languages:
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
@@ -32,7 +34,7 @@ Hi, I'm Felipe Rivas a self-taught/bootcamper Jr. developer. Currently going thr
 
 <br />
 
-## Frameworks: 
+# Frameworks: 
 
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
