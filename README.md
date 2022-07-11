@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ferivb.ferivb)
 
-<img align="center" alt="Felipe Rivas, Jr dev" title="Felipe Rivas, dev jr" src="https://i.imgur.com/oMmh5H1.png" />
+<img align="center" alt="Felipe Rivas, Jr dev" title="Felipe Rivas, dev jr" src="https://i.imgur.com/OSKVWt8.png" />
 
 <br />
 
