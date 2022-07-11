@@ -2,6 +2,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ferivb.ferivb)
 
+<img align="center" alt="GIF" src="https://github.com/ferivb/ferivb/blob/main/code.gif?raw=true" width="500" height="320" />
+
 <br />
 
 <p allign=left>
@@ -26,7 +28,7 @@ Hi, I'm Felipe Rivas a self-taught/bootcamper Jr. developer. Currently going thr
 
 - :floppy_disk: My stack:
 
-# Languages:
+#### Languages:
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
@@ -34,7 +36,7 @@ Hi, I'm Felipe Rivas a self-taught/bootcamper Jr. developer. Currently going thr
 
 <br />
 
-# Frameworks: 
+#### Frameworks: 
 
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
@@ -45,7 +47,4 @@ Hi, I'm Felipe Rivas a self-taught/bootcamper Jr. developer. Currently going thr
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ferivb&show_icons=true&theme=gotham" alt="ferivb" />
 
-
-
-  <img align="center" alt="GIF" src="https://github.com/ferivb/ferivb/blob/main/code.gif?raw=true" width="500" height="320" />
   
