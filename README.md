@@ -1,4 +1,15 @@
 ### Hello World!
+
+![](https://visitor-badge.glitch.me/badge?page_id=ferivb.ferivb)
+
+<br />
+
+<p allign=left>
+Hi, I'm Felipe Rivas a self-taught/bootcamper Jr. developer. Currently going through my Frontend pipeline! I'm very proactive comunicative and eager to learn!
+</p>
+
+<br />
+
 <a href="https://twitter.com/NoobDevSaysWhat">
   <img align="left" alt="Felipe Rivas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -9,17 +20,26 @@
   <img align="left" alt="Felipe Rivas's Medium" width="22px" src="https://img.icons8.com/ios-glyphs/344/medium-logo.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ferivb.ferivb)
+- 💼 I'm available for work! get in touch [email](mailto:fe.rivasb@gmail.com) :)
+
+- :floppy_disk: My stack:
+
+## Languages:
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a>
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 
 <br />
 
-<p allign=left>
-Hi, I'm Felipe Rivas a self-taught/bootcamper Jr. developer that finally decided to follow his dream to join the tech industry after 10 years of Client success consulting! I fell in in love with programing at a young age, but found success in client success consulting so I always postponed learning computer sciences, until the events from 2020 showed me dreams shouldn't wait that long!
-</p>
+## Frameworks: 
 
-- 💼 Any job offers? do reach! [email](mailto:fe.rivasb@gmail.com) :)
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
+  
 
-📈 my github stats
+
+- 📈 my github stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ferivb&show_icons=true&theme=gotham" alt="ferivb" />
 
