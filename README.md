@@ -9,11 +9,10 @@
 <p allign=left>Hi, I'm Felipe Rivas, Test automation engineer with more than 5 years of experience in Lean-Six sigma frameworks for Quality Assurance and more than a year of experience in low level/high level programing both in BDD and TDD.</p>
 
 <p allign=left>Not only I'm familiar with the most popular Test Automation tools and frameworks, but I can also confidently pick up any new framework your project needs. I can automate tests for:</p>
-+ Web Applications
-+ Android Applications
-+ API endpoints
 
-<p allign=left>I'm very proactive, comunicative and eager to learn!</p>
+- Web Applications
+- Android Applications
+- API endpoints
 
 <br />
 
@@ -40,6 +39,7 @@
 
 **Other Tools:**
 
+<a href="https://en.wikipedia.org/wiki/Terraform_(software)" title="Terraform"><img src="https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio.png" alt="Terraform" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
 <a href="https://www.digitalocean.com/" title="Digital Ocean"><img src="https://cdn.svgporn.com/logos/digital-ocean.svg" alt="Digital Ocean" width="21px" height="21px"></a>
@@ -47,9 +47,9 @@
 
 **Currently Unlocking:**
 
-<a href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="21px" height="21px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
+<a href="https://en.wikipedia.org/wiki/Mocha_(JavaScript_framework)" title="Mocha"><img src="https://github.com/get-icon/geticon/blob/master/icons/mocha.svg" alt="Mocha" width="21px" height="21px"></a>
+<a href="https://www.chaijs.com/" title="Chai"><img src="https://github.com/get-icon/geticon/blob/master/icons/chai.svg" alt="Chai" width="21px" height="21px"></a>
+<a href="https://v5.webdriver.io/" title="Webdriverio"><img src="https://v5.webdriver.io/img/webdriverio.png" alt="Webdriverio" width="21px" height="21px"></a>
 
 <br />
 
