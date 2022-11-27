@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ferivb.ferivb)
 
-<img align="center" alt="Felipe Rivas, Test Automation Engineer" title="Felipe Rivas, dev jr" src="[https://imgur.com/a/HjPUpaA](https://i.imgur.com/36weT2N.png)" />
+<img align="center" alt="Felipe Rivas, Test Automation Engineer" title="Felipe Rivas, dev jr" src="https://i.imgur.com/36weT2N.png" />
 
 <br />
 
@@ -28,7 +28,7 @@ Not only I'm familiar with the most popular Test Automation tools and frameworks
 **Frameworks/Libraries:**
 
 <a href="https://cucumber.io/" title="Cucumber"><img src="https://github.com/get-icon/geticon/blob/master/icons/cucumber.svg" alt="Cucumber" width="21px" height="21px"></a>
-<a href="https://www.selenium.dev/" title="Selenium"><img src="![image](https://user-images.githubusercontent.com/91081863/204163297-bc369857-b445-4b99-a5a8-cf9de2b6e568.png)" alt="Selenium" width="21px" height="21px"></a>
+<a href="https://www.selenium.dev/" title="Selenium"><img src="https://user-images.githubusercontent.com/91081863/204163297-bc369857-b445-4b99-a5a8-cf9de2b6e568.png" alt="Selenium" width="21px" height="21px"></a>
 <a href="https://en.wikipedia.org/wiki/Appium" title="Appium"><img src="https://github.com/get-icon/geticon/blob/master/icons/appium.svg" alt="Appium" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
