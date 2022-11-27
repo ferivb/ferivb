@@ -39,7 +39,7 @@
 
 **Other Tools:**
 
-<a href="https://en.wikipedia.org/wiki/Terraform_(software)" title="Terraform"><img src="https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio.png" alt="Terraform" width="21px" height="21px"></a>
+<a href="https://en.wikipedia.org/wiki/Terraform_(software)" title="Terraform"><img src="https://www.datocms-assets.com/2885/1620155117-brandhcterraformverticalcolorwhite.svg" alt="Terraform" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
 <a href="https://www.digitalocean.com/" title="Digital Ocean"><img src="https://cdn.svgporn.com/logos/digital-ocean.svg" alt="Digital Ocean" width="21px" height="21px"></a>
