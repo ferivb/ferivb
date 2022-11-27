@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ferivb.ferivb)
 
-<img align="center" alt="Felipe Rivas, Test Automation Engineer" title="Felipe Rivas, dev jr" src="https://imgur.com/a/HjPUpaA" />
+<img align="center" alt="Felipe Rivas, Test Automation Engineer" title="Felipe Rivas, dev jr" src="[https://imgur.com/a/HjPUpaA](https://i.imgur.com/36weT2N.png)" />
 
 <br />
 
@@ -23,7 +23,7 @@ Not only I'm familiar with the most popular Test Automation tools and frameworks
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
-<a https://en.wikipedia.org/wiki/HTML5" title="HTML"><img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="HTML" width="21px" height="21px"></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" title="HTML"><img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="HTML" width="21px" height="21px"></a>
 
 **Frameworks/Libraries:**
 
