@@ -6,7 +6,7 @@
 
 <br />
 
-<p allign=left>Hi, I'm Felipe Rivas, Test automation engineer with more than 5 years of experience in Lean-Six sigma frameworks for Quality Assurance and more than a year of experience in low level/high level programing both in BDD and TDD.</p>
+<p allign=left>Hi, I'm Felipe Rivas, Test automation engineer with more than 5 years of experience in Lean-Six sigma frameworks for Quality Assurance and more than a year of experience in low level/high level programming both in BDD and TDD.</p>
 
 <p allign=left>Not only I'm familiar with the most popular Test Automation tools and frameworks, but I can also confidently pick up any new framework your project needs. I can automate tests for:</p>
 
